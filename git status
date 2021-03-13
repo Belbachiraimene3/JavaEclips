@@ -1,0 +1,24 @@
+[1mdiff --git a/bin/TestGit/SecoundGit.class b/bin/TestGit/SecoundGit.class[m
+[1mnew file mode 100644[m
+[1mindex 0000000..b2f90ac[m
+Binary files /dev/null and b/bin/TestGit/SecoundGit.class differ
+[1mdiff --git a/src/TestGit/SecoundGit.java b/src/TestGit/SecoundGit.java[m
+[1mnew file mode 100644[m
+[1mindex 0000000..296df53[m
+[1m--- /dev/null[m
+[1m+++ b/src/TestGit/SecoundGit.java[m
+[36m@@ -0,0 +1,14 @@[m
+[32m+[m[32mpackage TestGit;[m
+[32m+[m
+[32m+[m[32mpublic class SecoundGit {[m
+[32m+[m[41m	[m
+[32m+[m[32m public static void main(String[] args) {[m
+[32m+[m[41m	[m
+[32m+[m[41m	 [m
+[32m+[m	[32m some code_i am writing[m
+[32m+[m	[32m standing in_ the dark_[m
+[32m+[m	[32m singing my song[m
+[32m+[m	[32m holding my pen[m
+[32m+[m	[32m making it all go away[m
+[32m+[m[32m}[m
+[32m+[m[32m}[m
