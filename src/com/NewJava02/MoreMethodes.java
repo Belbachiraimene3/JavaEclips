@@ -50,9 +50,9 @@ public class MoreMethodes {
 			System.out.println(i+" "+s.charAt(i));
 			news+=s.charAt(i);
 		}
-		System.err.println(news);
-		return true;
-		
+		System.out.println(news);
+		if (s.equals(news)) return true;
+		else return false;
 	}
 	
 	

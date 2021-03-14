@@ -23,7 +23,7 @@ public class MoreMethodsTester {
 		double [] arr= {10.2,25,30};
 		System.out.println(Methodes.SumArray(arr));
 		
-		Methodes.isMirror("ABA");
+		System.out.println(Methodes.isMirror("ABA"));
 		
 	}
 
