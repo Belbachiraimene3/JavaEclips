@@ -6,8 +6,9 @@ public class CalculatorTester {
 		
 		Calculator calculator = new Calculator();
 		System.out.println(calculator.add(10,12));
-		double result=calculator.sub(12.5, 2.5);
-		System.out.println(result);
+		System.out.println(calculator.sub(10,12));
+		System.out.println(calculator.mult(10,12));
+		System.out.println(calculator.div(10,12));
 	}
 
 }
