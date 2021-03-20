@@ -25,6 +25,8 @@ public class MoreMethodsTester {
 		
 		System.out.println(Methodes.isMirror("ABA"));
 		
+		Methodes.syntaxTechnologies();
+		Methodes.syntaxStudents();
 	}
 
 }

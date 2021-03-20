@@ -1,5 +1,7 @@
 package com.NewJava02;
 
+import com.NewJava04.Main;
+
 public class MoreMethodes {
 
 	String print() {
@@ -54,6 +56,45 @@ public class MoreMethodes {
 		if (s.equals(news)) return true;
 		else return false;
 	}
+	
+	void syntaxTechnologies () {
+		 System.out.println("Welcome to Syntax Technologies!");
+			
+	}
+	void syntaxStudents () {
+		 System.out.println("Welcome Syntax Students!");
+			
+	}
+	
+		 int Num1 (int i) {
+		return i;
+		}
+		 int num2 (int j) {
+			 return j;
+		 }
+	
+		 void num (int a,int b) {
+			
+				 System.out.println(a+b);
+			
+		 }
+		 void num1 (int a,int b) {
+				
+			 System.out.println(a*b);
+		
+	 } void num2 (int a,int b) {
+			
+		 System.out.println(a-b);
+	
+ }
+		 
+	 void bothEven (int i, int j) {
+		 if(i%2==0 && j%2==0) System.out.println("true");
+		 else System.out.println("false");
+			
+			}
+	 
+		 
 	
 	
 }
